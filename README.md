@@ -51,5 +51,9 @@ Provides the same information as the main dashboard but with a darker color sche
 - Maintained data accuracy and integrity with automated data refresh processes.
 - Ensured data security and compliance with advanced security measures.
 
+**Snap Of DashBoard**
+![image](https://github.com/user-attachments/assets/39bbae17-2b89-4986-8a83-9f45f03c8fed)
+
+**Snap Of Products Page**
 
 
