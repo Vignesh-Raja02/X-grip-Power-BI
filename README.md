@@ -1,7 +1,5 @@
 # X-grip Sales Dashboard Project
 
-This project involves the development of a real-time interactive sales dashboard using Power BI, designed to provide teams with immediate, data-driven insights and facilitate informed decision-making.
-
 ## Key Features
 
 - **Integrated Diverse Data Sources**: Consolidated datasets from PostgreSQL (cloud), MySQL (local), Excel, CSV, and PDF formats using Power Query for seamless analysis.
@@ -12,25 +10,6 @@ This project involves the development of a real-time interactive sales dashboard
 - **Automated Data Refresh**: Configured Power BI gateway and scheduled data refresh to support continuous updates with new data streams.
 - **Implemented Advanced Security**: Applied Row-Level Security (RLS) to ensure data accessibility compliance for different user roles.
 
-## Technologies Used
 
-- **Power BI**: For creating interactive dashboards and visualizations.
-- **Power Query**: For data consolidation and transformation.
-- **SQL**: For extracting and querying data from databases.
-- **Excel**: For initial data analysis and preparation.
 
-## Outcomes
 
-- Empowered teams with real-time, data-driven decision-making capabilities.
-- Ensured consistency in multi-currency data reporting.
-- Provided precise profitability analysis through comprehensive data integration.
-- Enhanced user experience with intuitive and interactive dashboards.
-- Maintained data accuracy and integrity with automated data refresh processes.
-- Ensured data security and compliance with advanced security measures.
-
-## Getting Started
-
-To get started with this project, clone the repository and open the Power BI file in Power BI Desktop. Make sure to configure the data sources and refresh settings as per your environment.
-
-```bash
-git clone https://github.com/your-username/power-bi-sales-dashboard.git
