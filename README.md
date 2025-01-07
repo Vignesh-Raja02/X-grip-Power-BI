@@ -55,5 +55,5 @@ Provides the same information as the main dashboard but with a darker color sche
 ![image](https://github.com/user-attachments/assets/39bbae17-2b89-4986-8a83-9f45f03c8fed)
 
 **Snap Of Products Page**
-
+![image](https://github.com/user-attachments/assets/650d8dee-9e2e-4eae-8c20-e8a48c2c3625)
 
